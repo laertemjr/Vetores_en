@@ -14,7 +14,7 @@ Support for Delphi programmer
 
 ### ⚙️ Running the tests
 
-* PTo test the code of this project, simply download the executable file, accessible from the folder [Win32/Debug](https://github.com/laertemjr/Vetores_en/tree/main/Win32/Debug) from this repository.
+* To test the code of this project, simply download the executable file, accessible from the folder [Win32/Debug](https://github.com/laertemjr/Vetores_en/tree/main/Win32/Debug) from this repository.
 
 
 ### 🛠️ Built with
